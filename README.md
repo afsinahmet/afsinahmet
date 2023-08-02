@@ -1,5 +1,5 @@
 
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1000/1*K8XgRuFvD-L_bFDWwdkKew.png)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1000/1*K8XgRuFvD-L_bFDWwdkKew.png)
 <h1 align="center">Hi 👋, I'm Ahmet Afşin</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 
