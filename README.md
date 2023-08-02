@@ -1,7 +1,7 @@
 
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1000/1*K8XgRuFvD-L_bFDWwdkKew.png)
 <h1 align="center">Hi 👋, I'm Ahmet Afşin</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">A Passionate Software Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afsinahmet" alt="afsinahmet" /></a> </p>
 
